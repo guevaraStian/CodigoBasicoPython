@@ -1,3 +1,4 @@
+#El siguiente programa es un ejemplo sencillo de condicionales SI
 edad = 102
 
 

@@ -1,4 +1,4 @@
-
+#Un decorador es una funcion que recibe datos de otra funcion
 loggeado = False
 usuario = "CodigoFacilito"
 

@@ -1,3 +1,4 @@
+#Se crena clases que solicitaran 1 dato de entrada para mostrar la informacion final
 class humano:
 	def __init__(self,edad):
 		self.edad = edad
@@ -19,5 +20,6 @@ class estudioso(ingsistemas,derecho):
 pedro = ingsistemas(26)
 raul = derecho(30)
 
+#Se invoca la funcion con una variable de ingreso
 pedro.programar('python')
 raul.estudiarcaso('Pedro')

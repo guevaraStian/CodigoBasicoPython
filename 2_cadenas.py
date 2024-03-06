@@ -1,3 +1,4 @@
+#Teniendo el hola mundo, como una cadena de texto, se puede imprimir informacion con los siguientes comando
 s = "Hola mundo"
 
 print (len(s))           #Sirve para imprimir la cantidad de caracteres hay en la cadena S
