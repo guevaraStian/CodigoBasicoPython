@@ -1,4 +1,4 @@
-
+#Primero se instala socket con el siguiente comando  "pip install socket"
 import socket
 
 #Escogemos el dominio al que le vamos a ver la ip

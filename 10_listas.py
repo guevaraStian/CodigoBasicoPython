@@ -1,6 +1,7 @@
+#Se crean las variables con listas en su interior
 lista = [1,"dos",3]
-buscar=3
 lista2 = [1,2,3,4]
+buscar=3
 
 print (buscar in lista)             #Para ver si la variable (buscar) esta en la lista 
 print (lista.index(buscar))         #Para ver en que posicion esta la variable (buscar) en la lista 

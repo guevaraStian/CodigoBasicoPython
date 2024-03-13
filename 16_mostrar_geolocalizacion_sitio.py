@@ -1,5 +1,5 @@
-#Primero se instala pytube con el siguiente comando  "pip install geopy"
-#Primero se instala pytube con el siguiente comando  "pip install folium"
+#Primero se instala geopy con el siguiente comando  "pip install geopy"
+#Primero se instala folium con el siguiente comando  "pip install folium"
 # importando Geopy
 import geopy
 import folium
