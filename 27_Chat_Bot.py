@@ -1,3 +1,5 @@
+#Primero se instala re con el siguiente comando  "pip install re"
+#Primero se instala random con el siguiente comando  "pip install random"
 import re
 import random
 
