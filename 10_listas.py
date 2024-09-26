@@ -1,4 +1,4 @@
-#Se crean las variables con listas en su interior
+# Se crean las variables con listas en su interior
 lista = [1,"dos",3]
 lista2 = [1,2,3,4]
 buscar=3

@@ -1,3 +1,5 @@
+# Se crea funcion y se ejecuta imprimiento en pantalla informacion
+
 def operador (n,m):
 	if n==None or m == none:
 		return 0

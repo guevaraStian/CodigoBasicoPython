@@ -1,4 +1,4 @@
-#Primero se instala requests con el siguiente comando  "pip install requests"
+﻿# Primero se instala requests con el siguiente comando  "pip install requests"
 #Primero se instala json con el siguiente comando  "pip install json"
 import requests
 import json

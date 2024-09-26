@@ -1,4 +1,4 @@
-#Primero se instala socket con el siguiente comando  "pip install socket"
+# Primero se instala socket con el siguiente comando  "pip install socket"
 import socket
 
 #Escogemos la ip publica a la que le veremos el dominio junto a un puerto abierto

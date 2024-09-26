@@ -1,4 +1,4 @@
-#Primero se instala PyPDF3, pyttsx3 y pdfplumber con el siguiente comando  "pip install PyPDF3" , "pip install pyttsx3" , "pip install pdfplumber"
+# Primero se instala PyPDF3, pyttsx3 y pdfplumber con el siguiente comando  "pip install PyPDF3" , "pip install pyttsx3" , "pip install pdfplumber"
 import PyPDF3
 import pyttsx3
 import pdfplumber

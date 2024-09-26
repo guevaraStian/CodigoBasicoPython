@@ -1,4 +1,4 @@
-#Primero se instala selenium con el siguiente comando  "pip install selenium"
+# Primero se instala selenium con el siguiente comando  "pip install selenium"
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys

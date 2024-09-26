@@ -1,4 +1,4 @@
-﻿#pip install random
+﻿# pip install random
 import random
 
 #En la siguiente linea se ingresa la cantidad de caracteres que va a tener la contraseña

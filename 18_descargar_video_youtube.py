@@ -1,4 +1,4 @@
-#Primero se instala pytube con el siguiente comando  "pip install pytube"
+﻿# Primero se instala pytube con el siguiente comando  "pip install pytube"
 from pytube import YouTube
 
 #Los siguientes codigo solicitan la url del video y lo convierte en datos 

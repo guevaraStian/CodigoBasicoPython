@@ -1,4 +1,4 @@
-#Primero se instala qrcode con el siguiente comando  "pip install qrcode"
+# Primero se instala qrcode con el siguiente comando  "pip install qrcode"
 import qrcode
 
 #Se solicita la informacion y se crea la variable con el nombre del archivo

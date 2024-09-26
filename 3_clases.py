@@ -1,4 +1,4 @@
-#Se crena clases que solicitaran 1 dato de entrada para mostrar la informacion final
+# Se crena clases que solicitaran 1 dato de entrada para mostrar la informacion final
 class humano:
 	def __init__(self,edad):
 		self.edad = edad

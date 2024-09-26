@@ -1,4 +1,4 @@
-#Este software crea un diccionario con diferente informacion dentro y nos muesta como imprimir en pantalla cierta informacion
+# Este software crea un diccionario con diferente informacion dentro y nos muesta como imprimir en pantalla cierta informacion
 diccionario = {
 	"redes_sociales": ["twitter","Facebook","linkedin"], 3: "tres","hola":"mundo"
 }

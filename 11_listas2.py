@@ -1,4 +1,4 @@
-#Se crean 2 listas diferentes, uno con numeros y el otro con letras
+# Se crean 2 listas diferentes, uno con numeros y el otro con letras
 l = [1,2,3,4]
 s = ["H","O","L","A"]
 

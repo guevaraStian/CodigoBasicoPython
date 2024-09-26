@@ -1,4 +1,4 @@
-#Primero se instala PyAutoGUI con el siguiente comando  "pip install PyAutoGUI"
+﻿# Primero se instala PyAutoGUI con el siguiente comando  "pip install PyAutoGUI"
 import pyautogui
 import time
 

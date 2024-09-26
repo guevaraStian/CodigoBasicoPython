@@ -1,4 +1,4 @@
-#Primero se instala datetime con el siguiente comando  "pip install datetime"
+# Primero se instala datetime con el siguiente comando  "pip install datetime"
 from datetime import datetime
 import os
 while True:

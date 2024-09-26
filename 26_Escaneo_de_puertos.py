@@ -1,4 +1,4 @@
-#Primero se instala socket con el siguiente comando  "pip install socket"
+# Primero se instala socket con el siguiente comando  "pip install socket"
 import socket
 
 def escanear_puerto(ip, puerto):

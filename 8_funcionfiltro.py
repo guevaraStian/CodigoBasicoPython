@@ -1,4 +1,4 @@
-#Esta funcion, nos muestra los numeros mayores que 0
+# Esta funcion, nos muestra los numeros mayores que 0
 def filtro (elem):
 	return (elem >0)
 

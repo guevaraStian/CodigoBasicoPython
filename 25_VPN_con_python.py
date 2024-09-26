@@ -1,4 +1,4 @@
-#Primero se instala datetime con el siguiente comando  "pip install datetime"
+# Primero se instala datetime con el siguiente comando  "pip install datetime"
 #Primero se instala os con el siguiente comando  "pip install os"
 import os
 from time import sleep
